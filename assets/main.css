@@ -53,8 +53,8 @@ GRID
     box-sizing: border-box;
 }
 body{
-    background-color: #5469ac;
-    background-image:url("img/boat1.jpg");
+    background-color: #020202;
+    background-image:url("img/forest1.jpg");
     background-repeat:no-repeat;
     background-size:100% auto;
     background-position: top;
